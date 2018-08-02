@@ -1,0 +1,27 @@
+{
+  "name": "redux-skelton",
+  "version": "1.8.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.5",
+    "react": "^15.4.2",
+    "react-dom": "^15.6.2",
+    "react-redux": "^5.0.7",
+    "react-router": "3.0.3",
+    "react-select": "^1.2.1",
+    "reactstrap": "^4.5.0",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
